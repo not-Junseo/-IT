@@ -59,7 +59,6 @@ h1 {
     line-height: 1.2;
     font-size: 16vw; /* 화면 너비 기준 비율로 크기 조정 */
     margin: 0 5vw; /* 좌우 여백 */
-    text-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
 .button-container {
